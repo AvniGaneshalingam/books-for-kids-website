@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books for Kids</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Books for Kids 📚</h1>
+        <p>Spreading the joy of reading, one book at a time!</p>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>Our Mission</h2>
+            <p>
+                Welcome to <strong>Books for Kids</strong>! 
+                Every subscription to our YouTube channel helps us buy and donate books to children in hospitals. 
+                Join us in making a difference, one story at a time.
+            </p>
+        </section>
+
+        <section class="subscribe">
+            <h2>Support Us!</h2>
+            <p>Subscribe to our YouTube channel and be part of the journey:</p>
+            <a href="YOUR_YOUTUBE_CHANNEL_LINK_HERE" class="subscribe-button" target="_blank">Subscribe on YouTube</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Books for Kids. All rights reserved.</p>
+    </footer>
+</body>
+</html>
